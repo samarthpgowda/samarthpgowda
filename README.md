@@ -24,20 +24,23 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
+<!-- Arduino -->
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </a>
 
+<!-- C -->
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 </a>
 
+<!-- C++ -->
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
 </a>
 
 <!-- Embedded / Bare Metal -->
-<a href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank" rel="noreferrer">
+<a href="https://en.wikipedia.org/wiki/Embedded_system" target="_blank" rel="noreferrer">
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103626.png" alt="embedded systems" width="40" height="40"/>
 </a>
 
@@ -46,18 +49,37 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2103/2103658.png" alt="verilog" width="40" height="40"/>
 </a>
 
+<!-- FPGA -->
+<a href="https://en.wikipedia.org/wiki/Field-programmable_gate_array" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/2103/2103645.png" alt="fpga" width="40" height="40"/>
+</a>
+
+<!-- Xilinx Vivado -->
+<a href="https://www.xilinx.com/products/design-tools/vivado.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xilinx.svg" alt="vivado" width="40" height="40"/>
+</a>
+
+<!-- Intel Quartus -->
+<a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/intel.svg" alt="quartus" width="40" height="40"/>
+</a>
+
+<!-- Linux -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </a>
 
+<!-- MATLAB -->
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
 </a>
 
+<!-- Photoshop -->
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </a>
 
+<!-- Python -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
