@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **psamarth2005@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ocMeTJJ29bZ-IaAcOTYZkOErSKYaKpjW/view?usp=drive_link](https://drive.google.com/file/d/1ocMeTJJ29bZ-IaAcOTYZkOErSKYaKpjW/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OFPPho6VGOKLyyPCQqb7y4QCHiX8-spI/view?usp=drive_link)
 
 - ⚡ Fun fact **I believe every bug can be fixed… unless it’s a hardware bug.**
 
