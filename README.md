@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bare metal programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/samarthpgowda/samarthpgowda.git](https://github.com/samarthpgowda/samarthpgowda.git)
+- 👨‍💻 All of my repos are available at [GitHub Repositories](https://github.com/repos)
 
 - 💬 Ask me about **VLSI,Verilog,Bare-metal,microprocessors and controllers**
 
