@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthpgowda&label=Profile%20views&color=0e75b6&style=flat" alt="samarthpgowda" /> </p>
 
-- 🌱 I’m currently learning **Bare metal programming**
+- 🌱 I’m currently learning **System Verilog**
 
 - 👨‍💻 All of my repos are available at [GitHub Repositories](https://github.com/repos)
 
